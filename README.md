@@ -3,7 +3,10 @@
 Demo: https://drive.google.com/drive/folders/12Qe0kgtsFOHszdg_H5f0HHyIzzC1DKV-?usp=drive_link
 **Your evidence changes. Your paper should know.**
 
-![ProofLoop concept animation](https://proof-loop-core.base44.app/assets/proofloop-loop.gif)
+<div style="width:100%;max-width:800px;margin:0 auto;">
+<iframe src="https://www.canva.com/design/DAGJd0eB-pg/view" style="width:100%;height:600px;border:none;border-radius:8px;" allowfullscreen></iframe>
+</div>
+
 n8n: 
 
 <img width="1228" height="371" alt="Screenshot 2026-09-14 040404" src="https://github.com/user-attachments/assets/9d89390b-20df-4f00-89a8-162a740c0fd1" />
