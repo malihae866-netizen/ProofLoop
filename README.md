@@ -4,6 +4,10 @@ Demo: https://drive.google.com/drive/folders/12Qe0kgtsFOHszdg_H5f0HHyIzzC1DKV-?u
 **Your evidence changes. Your paper should know.**
 
 ![ProofLoop concept animation](https://proof-loop-core.base44.app/assets/proofloop-loop.gif)
+n8n: 
+
+<img width="1228" height="371" alt="Screenshot 2026-09-14 040404" src="https://github.com/user-attachments/assets/9d89390b-20df-4f00-89a8-162a740c0fd1" />
+
 
 A researcher approves a conclusion and keeps writing. A new paper challenges it—but the original literature review never tells them.
 
