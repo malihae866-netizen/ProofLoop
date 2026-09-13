@@ -3,7 +3,7 @@
 
 **Your evidence changes. Your paper should know.**
 
-![ProofLoop concept animation](assets/proofloop-loop.gif)
+![ProofLoop concept animation](https://proof-loop-core.base44.app/assets/proofloop-loop.gif)
 
 A researcher approves a conclusion and keeps writing. A new paper challenges it—but the original literature review never tells them.
 
@@ -13,7 +13,7 @@ ProofLoop is designed to connect claims, source evidence, and researcher decisio
 
 ![ProofLoop dashboard, claim review, draft review, and connections prototype](assets/proofloop-prototype.png)
 
-**Design prototype:** the screens contain illustrative research content and connection statuses. They are not proof of live integrations or validated scientific findings. The animation above explains the intended workflow; it is not a recorded execution.
+**Design prototype:** the screens contain illustrative research content and connection statuses. They are not proof of live integrations or validated scientific findings. The animation above expla[...]
 
 ## One connected research journey
 
@@ -29,13 +29,13 @@ The monitoring extension is intended to reassess previously reviewed claims with
 | Notion | Evidence reviews and decision records |
 | Slack | Approval requests and notifications |
 
-n8n orchestrates the workflow and holds structured records in Data Tables. Rork provides the current frontend design. Hugging Face similarity is optional; MemPalace is excluded from the intended MVP.
+n8n orchestrates the workflow and holds structured records in Data Tables. Rork provides the current frontend design. Hugging Face similarity is optional; MemPalace is excluded from the intended M[...]
 
 ## Prototype status
 
-The development transcript reports an n8n input form, year validation, evidence-processing nodes, persistence, and external integration nodes. Credential configuration and a complete live multi-app execution remain unconfirmed. Offline logic checks do not verify delivery through external services.
+The development transcript reports an n8n input form, year validation, evidence-processing nodes, persistence, and external integration nodes. Credential configuration and a complete live multi-ap[...]
 
-Word draft checking and ongoing monitoring are intended features; the supplied screenshots do not establish working document access or scheduled checks. MemPalace removal was requested but has not been independently verified in the saved workflow.
+Word draft checking and ongoing monitoring are intended features; the supplied screenshots do not establish working document access or scheduled checks. MemPalace removal was requested but has not[...]
 
 ## Run the workflow
 
