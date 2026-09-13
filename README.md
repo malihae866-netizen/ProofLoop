@@ -1,6 +1,6 @@
 # ProofLoop
 # ProofLoop — Research That Can Defend Itself
-
+Demo: https://drive.google.com/drive/folders/12Qe0kgtsFOHszdg_H5f0HHyIzzC1DKV-?usp=drive_link
 **Your evidence changes. Your paper should know.**
 
 ![ProofLoop concept animation](https://proof-loop-core.base44.app/assets/proofloop-loop.gif)
